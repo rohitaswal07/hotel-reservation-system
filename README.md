@@ -99,8 +99,3 @@ Through this project, I gained practical experience in:
 - Payment Integration
 - GUI using JavaFX or Swing
 
-## Author
-
-Rohit Aswal
-
-Java Developer | Computer Science Graduate
